@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UGD Persistent Data V1</string>
+    <string name="title_home">Home</string>
+    <string name="title_todolist">Todo List</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="clear_field">Clear Field</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="welcome">Selamat Datang, Username</string>
+</resources>
